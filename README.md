@@ -1,4 +1,11 @@
 ###### <p align="center">DsaiUebung-009-Ritt</p>
+ 
+<div align="center">
+  
+   [Assignment <sup>(12.2.2025)</sup> ](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/assignment.md)
+
+</div>
+
 # Teachable Machines <br><sup><sup><u> Ascii-BoxChar-Recognizer </u></sup></sub>
 
 > "  
