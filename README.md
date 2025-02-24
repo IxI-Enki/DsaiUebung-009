@@ -7,7 +7,7 @@
 
 ---
 
-# Teachable Machines <br><sup><sup><u> Ascii-BoxChar-Recognizer </u></sup></sub>
+# Teachable Machines <br><sup><sup><u> Ascii-Box(Char)-Recognizer </u></sup></sub>
 #### *The Idea*:<br>
   - *I wanted to make something maybe more useful than an LLM to differ between cat & dog pictures.*  
   - Because on Teachable Machines only the training of LLMs based on picture-&audio-data is avaliable,<br>
@@ -21,18 +21,17 @@
     > - *This would be very helpful, in conjunction to normal unit-testing of each combination of box-/line-attributes,<br>
     >   to test my codebases creation and to provide a more robust ASCII-Box-Drawing-Solution, for my usecase.*   
 
-> "  
-> *... However*, &nbsp; DOS line- and <mark>box-drawing characters</mark> are <u><mark>not ordered</mark> in any programmatic manner</u>,
-> <br>&nbsp; *so calculating* <u>a <mark>particular</mark> character shape <mark>needs</mark> a <mark>look-up table</mark></u> &nbsp;...<br>  
-> <!--
-><div style="display: flex; justify-content: space-between;">
->   <span>"</span>
->   <span><small>source-Wiki:</small><a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a></span>
-></div> -->
-> " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>source</sub> Wiki :<a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a>
+   ---
 
----  
+  #### *As I started coding my Boxdrawer, i found this paragraph on wikipedia and could not belive it at first:*<br>
+  "  
+   &nbsp; *... However*, &nbsp; DOS line- and <mark>box-drawing characters</mark> are <u><mark>not ordered in any programmatic manner</mark></u>,
+   <br>&nbsp; *so calculating* <u>a <mark>particular</mark> character shape <mark>needs</mark> a <mark>look-up table</mark></u> &nbsp;...<br>  
+    " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>source</sub> Wiki :<a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a>
 
+  ---  
+  
+<!--
 <div align="center">
 
 |topic|screenshot|
@@ -63,9 +62,7 @@
 |-|-|-|
 
 </div>
-
-
-
+-->
 <!-- images:
 <img alt="" src="img\.png" width=500px>
 
