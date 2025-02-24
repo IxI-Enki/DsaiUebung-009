@@ -39,7 +39,7 @@ dataset-creation-screen-to-image
 
 <div align="center">
 
-| |screenshot|
+|topic|screenshot|
 |-|-|
 |||
 | | <img alt="llm-hood" src="img\llm-hood.png" width=500px> |
@@ -62,7 +62,8 @@ dataset-creation-screen-to-image
 | |  |
 |||
 
-||||
+### Examples of the custom generated trainings-data:<br>
 | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
+|-|-|-|
 
 </div>
