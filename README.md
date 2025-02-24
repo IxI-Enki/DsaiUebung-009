@@ -1,6 +1,12 @@
 # DsaiUebung-009
 Teachable Machines - Ascii-BoxChar-Recognizer
 
+## Idea:
+  - *"However, DOS line- and box-drawing characters are not ordered in any programmatic manner, so calculating a particular character shape needs to use a look-up table."*<br>
+    > **source**: [wiki - Box-drawing_characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
+
+---  
+
 <!-- images:
 <img alt="" src="img\.png" width=500px>
 
@@ -35,6 +41,7 @@ dataset-creation-output-test
 dataset-creation-screen-to-image.png
 dataset-creation-screen-to-image
 -->
+
 
 
 <div align="center">
