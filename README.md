@@ -5,9 +5,9 @@
 > *... However*, &nbsp; DOS line- and <mark>box-drawing characters</mark> are <u><mark>not ordered</mark> in any programmatic manner</u>,
 > <br>&nbsp; *so calculating* <u>a <mark>particular</mark> character shape <mark>needs</mark> a <mark>look-up table</mark></u> &nbsp;...<br>  
 >
-> <div style="width=100%">
->   <span style="float: left;">"</span>
->   <span style="float: right;"><small>source-Wiki:</small><a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a></span>
+><div style="display: flex; justify-content: space-between;">
+>   <span>"</span>
+>   <span><small>source-Wiki:</small><a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a></span>
 ></div>
 
 
