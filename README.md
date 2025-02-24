@@ -30,6 +30,15 @@
     " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub>source</sub> Wiki :<a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a>
 
   ---  
+
+
+# 1.) Getting familliar with Teachable-Machines
+
+# 2.) Creating the Trainings-DataSets
+
+# 3.) Training the Large Language Model
+
+# 4.) Testing the Capabilities of the Model 
   
 <!--
 <div align="center">
