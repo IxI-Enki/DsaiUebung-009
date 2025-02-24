@@ -1,14 +1,48 @@
 ###### <p align="center">DsaiUebung-009-Ritt</p>
-# Teachable Machines <br><sup><sup> Ascii-BoxChar-Recognizer </sup></sub>
+# Teachable Machines <br><sup><sup><u> Ascii-BoxChar-Recognizer </u></sup></sub>
 
-> ### Idea:
-> *"However, DOS line- and box-drawing characters are not ordered in any programmatic manner, so calculating a particular character shape needs to use a look-up table."*  
-> <div align="right">  
->
-> **Source**-***Wiki***: [ Box-drawing-characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
-> </div>
+> "  
+> *... However*, &nbsp; DOS line- and <mark>box-drawing characters</mark> are <u><mark>not ordered</mark> in any programmatic manner</u>,
+> <br>&nbsp; *so calculating* <u>a <mark>particular</mark> character shape <mark>needs</mark> a <mark>look-up table</mark></u> &nbsp;...
+><div style="display: flex; justify-content: space-between;">
+> <span>"</span>
+> <span><small>source-Wiki:</small> &nbsp; &nbsp; <a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a></span>
+></div>
 
 ---  
+
+<div align="center">
+
+|topic|screenshot|
+|-|-|
+|||
+| | <img alt="llm-hood" src="img\llm-hood.png" width=500px> |
+| |  |
+| | <img alt="llm-loss" src="img\llm-loss.png" width=500px> |
+| |  |
+| | <img alt="llm-test" src="img\llm-test.png" width=500px> |
+| |  |
+| | <img alt="llm-accuracy" src="img\llm-accuracy.png" width=500px> |
+| |  |
+| | <img alt="llm-test-output" src="img\llm-test-output.png" width=220px> |
+| |  |
+| | <img alt="llm-trainings-setup" src="img\llm-trainings-setup.png" width=500px> |
+| |  |
+| | <img alt="dataset-creation-files" src="img\dataset-creation-files.png" width=300px> |
+| |  |
+| | <img alt="dataset-creation-skiacode" src="img\dataset-creation-skiacode.png" width=500px> |
+| |  |
+| | <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> |
+| |  |
+|||
+
+### Examples of the custom generated trainings-data:<br>
+| <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
+|-|-|-|
+
+</div>
+
+
 
 <!-- images:
 <img alt="" src="img\.png" width=500px>
@@ -44,36 +78,3 @@ dataset-creation-output-test
 dataset-creation-screen-to-image.png
 dataset-creation-screen-to-image
 -->
-
-
-
-<div align="center">
-
-|topic|screenshot|
-|-|-|
-|||
-| | <img alt="llm-hood" src="img\llm-hood.png" width=500px> |
-| |  |
-| | <img alt="llm-loss" src="img\llm-loss.png" width=500px> |
-| |  |
-| | <img alt="llm-test" src="img\llm-test.png" width=500px> |
-| |  |
-| | <img alt="llm-accuracy" src="img\llm-accuracy.png" width=500px> |
-| |  |
-| | <img alt="llm-test-output" src="img\llm-test-output.png" width=220px> |
-| |  |
-| | <img alt="llm-trainings-setup" src="img\llm-trainings-setup.png" width=500px> |
-| |  |
-| | <img alt="dataset-creation-files" src="img\dataset-creation-files.png" width=300px> |
-| |  |
-| | <img alt="dataset-creation-skiacode" src="img\dataset-creation-skiacode.png" width=500px> |
-| |  |
-| | <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> |
-| |  |
-|||
-
-### Examples of the custom generated trainings-data:<br>
-| <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
-|-|-|-|
-
-</div>
