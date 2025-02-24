@@ -1,9 +1,12 @@
-# DsaiUebung-009
-Teachable Machines - Ascii-BoxChar-Recognizer
+###### <p align="center">DsaiUebung-009-Ritt</p>
+# Teachable Machines <br><sup><sup> Ascii-BoxChar-Recognizer </sup></sub>
 
-## Idea:
-  - *"However, DOS line- and box-drawing characters are not ordered in any programmatic manner, so calculating a particular character shape needs to use a look-up table."*<br>
-    > **source**: [wiki - Box-drawing_characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
+> ### Idea:
+> *"However, DOS line- and box-drawing characters are not ordered in any programmatic manner, so calculating a particular character shape needs to use a look-up table."*  
+>
+> <div align="right">
+>
+> **Source**-***Wiki***: [ Box-drawing-characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
 
 ---  
 
