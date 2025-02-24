@@ -3,10 +3,10 @@
 
 > ### Idea:
 > *"However, DOS line- and box-drawing characters are not ordered in any programmatic manner, so calculating a particular character shape needs to use a look-up table."*  
->
-> <div align="right">
+> <div align="right">  
 >
 > **Source**-***Wiki***: [ Box-drawing-characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
+> </div>
 
 ---  
 
