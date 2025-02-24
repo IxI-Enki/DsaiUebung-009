@@ -62,4 +62,5 @@ dataset-creation-screen-to-image
 | |  |
 |||
 
+<img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example">
 </div>
