@@ -9,14 +9,9 @@
 >   <span>"</span>
 >   <span><small>source-Wiki:</small><a href="https://en.wikipedia.org/wiki/Box-drawing_characters" title="takes you to wikipedia.com page on ASCII-Box-chars" target="_blank">Box-drawing-characters</a></span>
 ></div>
+>
+> "                                s
 
-
-<br>
-<br>
-<br>
-<br>
-<span style="display: inline-block; width: 50%; text-align: left;">Left-aligned text</span>
-<span style="display: inline-block; width: 50%; text-align: right;"
 ---  
 
 <div align="center">
