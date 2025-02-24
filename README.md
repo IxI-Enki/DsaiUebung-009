@@ -61,8 +61,9 @@ dataset-creation-screen-to-image
 | | <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> |
 | |  |
 |||
-|||
-|||
+
+||||
 | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
+||||
 
 </div>
