@@ -3,10 +3,23 @@
 <div align="center">
   
    *Train your own LLM* : [Assignment <sup>(12.2.2025)</sup> ](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/assignment.md)
-
 </div>
 
+---
+
 # Teachable Machines <br><sup><sup><u> Ascii-BoxChar-Recognizer </u></sup></sub>
+#### *The Idea*:<br>
+  - *I wanted to make something maybe more useful than an LLM to differ between cat & dog pictures.*  
+  - Because on Teachable Machines only the training of LLMs based on picture-&audio-data is avaliable,<br>
+    > - I choose to train the LLM to recognize ASCII-Box-Characters;<br>
+    >   *and then whole Boxes and their properties like 'closed-box', 'one-line-stroke-style', 'bold-line-style', 'irregular-box', ...*
+  - The first hurdle was to provide a good dataset for this - in size and variety - **DIY**.<br>
+    > - I coded an application that can generate **random boxchars** in **random RGB-colors**, on random background-color:<br>
+    >   *It prints each char in a consistent surrounding space, takes a screenshot with Skia from this sample and stores it as .png to feed them into the LLM afterwards.* 
+  - The LLM should be able to tell me if a drawn Ascii-box is a valid (eg. closed and coherent) box,<br>
+    or if my box-creation-code needs some adjustments,<br>
+    > - *This would be very helpful, in conjunction to normal unit-testing of each combination of box-/line-attributes,<br>
+    >   to test my codebases creation and to provide a more robust ASCII-Box-Drawing-Solution, for my usecase.*   
 
 > "  
 > *... However*, &nbsp; DOS line- and <mark>box-drawing characters</mark> are <u><mark>not ordered</mark> in any programmatic manner</u>,
