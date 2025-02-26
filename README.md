@@ -51,13 +51,15 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
 *I generated the needed trainings-data instead of using the trained model afterwards*.<br>
 > *( Because it wasn't specified in the assignment, i assume that either side of the LLM pipeline would be fine. )*  
 
-## 2.1.) 'The Charifier'<br><small><sup>- my Application for Testdata Creation</sup></small>
-
-
-<div align="center">
+  - ## 2.1.) '[The Charifier]()' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
+      - Comprehensive documentation can be found [ here ]().
+        
+      - *"Heart"* of the application - screencapturing with `Skia`: 
+    
+        <div align="center">
  
-  <img src="/img/dataset-creation-skiacode.png" alt="" width=70%>
-</div>
+          <img src="/img/dataset-creation-skiacode.png" alt="" width=55%>
+        </div>
 
 
 # 3.) Training the Large Language Model
