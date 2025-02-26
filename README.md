@@ -10,13 +10,13 @@
 # Teachable Machines <br><sup><sup><u> Ascii-Box(Char)-Recognizer </u></sup></sub>
 #### *The Idea*:<br>
   - *I wanted to make something maybe more useful than an LLM to differ between cat & dog pictures.*  
-  - Because on Teachable Machines only the training of LLMs based on picture-&audio-data is avaliable,<br>
-    > - I choose to train the LLM to recognize ASCII-Box-Characters;<br>
-    >   *and then whole Boxes and their properties like 'closed-box', 'one-line-stroke-style', 'bold-line-style', 'irregular-box', ...*
+  - Because on Teachable Machines the LLM training can be done based on picture- & audio-data,<br>
+    > - *I choose to train it to recognize ASCII-Box-Characters[^1]*;<br>
+    >   and then whole Boxes and their properties like 'closed-box', 'one-line-stroke-style', 'bold-line-style', 'irregular-box', ...[^2]
   - The first hurdle was to provide a good dataset for this - in size and variety - **DIY**.<br>
-    > - I coded an application that can generate **random boxchars** in **random RGB-colors**, on random background-color:<br>
-    >   *It prints each char in a consistent surrounding space, takes a screenshot with Skia from this sample and stores it as .png to feed them into the LLM afterwards.* 
-  - The LLM should be able to tell me if a drawn Ascii-box is a valid (eg. closed and coherent) box,<br>
+    > - *I coded an [application]() that can generate* **random boxchars** *in* **random RGB-colors**, *on random background-color:* <br>
+    >   It prints each char in a consistent surrounding space, takes a screenshot with Skia from this sample and stores it as .png to feed them into the LLM afterwards.* 
+  - The LLM should be able to tell me if a drawn Ascii-box is a valid (eg. `closed` and `coherent`) box,<br>
     or if my box-creation-code needs some adjustments,<br>
     > - *This would be very helpful, in conjunction to normal unit-testing of each combination of box-/line-attributes,<br>
     >   to test my codebases creation and to provide a more robust ASCII-Box-Drawing-Solution, for my usecase.*   
@@ -31,10 +31,27 @@
 
   ---  
 
-
 # 1.) Getting familliar with Teachable-Machines
 
+On teachable machines you can train a large language model either on audio, or images.<br>
+> *I chose to use the image-variant*,<br>
+  - which has this GUI on startup:<br>
+
+<div align="center">
+ 
+  <img src="/img/llm-teachablemachines-gui.png" alt="teachable-machines-picture-gui" width= 80%>
+</div>
+
+The LLM can learn the difference between uploaded classes.<br>
+> *In the first step, i wanted it to just to differ between alphanumeric-chars and the special ASCII-box-chars.*<br>
+
 # 2.) Creating the Trainings-DataSets
+
+To satisfy the "additional requirement" of the assignment - to implement the Model in our own project,<br> 
+*I generated the needed trainings-data instead of using the trained model afterwards.<br>
+> *( Because it wasn't specified in the assignment, i assume that either side of the LLM pipeline would be fine. )*  
+
+
 
 # 3.) Training the Large Language Model
 
