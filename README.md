@@ -135,8 +135,7 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 </div>
 
 - ### You can download the trained model [here]( https://github.com/IxI-Enki/DsaiUebung-009/blob/master/files/_ASCII-boxchar-Recognizer.tm)
-
----
+ 
 
 <!--
 <div align="center">
