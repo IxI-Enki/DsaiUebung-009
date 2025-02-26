@@ -100,7 +100,16 @@ To train the model, i uploaded `13400` generated images in total, which took a w
   <img src="/img/llm-trainings-setup.png" alt="" width=65%>
 </div>
 
+  ---  
 
+  - ### 3.1.) Under the Hood
+  
+  <div align="center">
+
+   | <img src="/img/llm-hood.png" alt="hood" width=400px> | <img src="/img/llm-loss.png" alt="loss" width=300px><br><img src="/img/llm-accuracy.png" alt="accuracy" width=300px> | 
+   |-|-|
+
+  </div>
 
 
 # 4.) Testing the Capabilities of the Model 
