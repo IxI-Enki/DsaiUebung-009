@@ -118,15 +118,20 @@ To train the model, i uploaded `13400` generated images in total, which took a w
     
   ---  
 
-
 # 4.) Testing the Capabilities of the Model 
+
+- There are no `black-white` sample-chars in the trainings set.
+  > - *So I tried to take some screenshots from normal console outputs, varrying with x-y-offset*;<br>
+  > - *It could now differentiate the characters on screen at all times.*  🥳🎉🫱🏻‍🫲🏻💻
 
 <div align="center">
  
    <img src="/img/llm-test.png" alt="skiasharp" width=65%>
 </div>
 
+- ### You can download the trained model [here]( https://github.com/IxI-Enki/DsaiUebung-009/blob/master/files/_ASCII-boxchar-Recognizer.tm)
 
+---
 
 <!--
 <div align="center">
