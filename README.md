@@ -127,7 +127,7 @@ To train the model, i uploaded `13400` generated images in total, which took a w
    |:---|---|
  
 
-  > - *It could now differentiate the characters on screen at all times.*  🥳🎉🫱🏻‍🫲🏻💻
+  > - *Now it knows exactly how to differentiate the characters on screen at all times.*  🥳🎉🫱🏻‍🫲🏻💻
 
 <div align="center">
  
