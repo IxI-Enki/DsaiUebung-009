@@ -54,13 +54,26 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
   - ## 2.1.) '[The Charifier]()' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
       - Comprehensive documentation can be found [ here ]().
         
-      - *"Heart"* of the application - screencapturing with `Skia`: 
+      - ### *"Heart"* of the application - screencapturing with `Skia`: 
     
         <div align="center">
  
           <img src="/img/dataset-creation-skiacode.png" alt="" width=55%>
         </div>
 
+      - ### Alignment-check of the first screen-captures in `Photoshop`:    
+ 
+        <div align="center">
+   
+          <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> 
+        </div>
+
+      - ### Examples of the custom generated trainings-data:<br>
+
+        | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img 
+          src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img 
+          src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
+        |-|-|-|
 
 # 3.) Training the Large Language Model
 
@@ -88,13 +101,11 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
 | |  |
 | | <img alt="dataset-creation-skiacode" src="img\dataset-creation-skiacode.png" width=500px> |
 | |  |
-| | <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> |
+| | |
 | |  |
 |||
 
-### Examples of the custom generated trainings-data:<br>
-| <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
-|-|-|-|
+
 
 </div>
 -->
