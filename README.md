@@ -102,10 +102,9 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
   ---  
 
-  - ### 3.1.)
-    <details>
+  - <details>
        <summary>
-           Under the Hood
+           $\color{royalblue}{click}$ to reveaal the stats '***Under the Hood***'
       </summary>
  
       <div align="center">
