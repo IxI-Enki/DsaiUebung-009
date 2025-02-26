@@ -84,7 +84,7 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
 <div align="center">
 
-  <img src="/img/dataset-creation-skiacode.png" alt="" width=65%>
+  <img src="/img/llm-trainings-setup.png" alt="" width=65%>
 </div>
 
 
