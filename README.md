@@ -60,21 +60,22 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
  
           <img src="/img/dataset-creation-skiacode.png" alt="" width=55%>
         </div>
-
+      <!--
       - ### Alignment-check of the first screen-captures in `Photoshop`:    
  
         <div align="center">
    
           <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> 
         </div>
-
-      - ### Examples of the custom generated trainings-data:<br>
-
-        | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img 
-          src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img 
-          src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
-        |-|-|-|
-
+      -->
+      - ### Examples of the final custom generated trainings-data:<br>
+      
+        <div align="center">
+       
+          | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
+          |-|-|-|
+        </div>
+      
 # 3.) Training the Large Language Model
 
 # 4.) Testing the Capabilities of the Model 
