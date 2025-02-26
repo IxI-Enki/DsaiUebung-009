@@ -81,14 +81,14 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
           <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> 
         </div>
       -->
-      - ### Examples of the final custom generated trainings-data:<br>
-        > - *I generated <u>`500 variants`</u> of each of the <u>`200 Bockchars` => `10.000 BoxChars`.
-        > - And `3400 alpha-numeric` chars (also in random colors) as second trainings-set. 
+      - ### Examples of the [final custom generated trainings-data]](https://github.com/IxI-Enki/DsaiUebung-009/tree/master/trainings-sets):<br>
+        > - *I generated <u>`500 variants`</u> of each of the <u>`200 Bockchars` => `10.000 BoxChars`*.
+        > - *And `3400 alpha-numeric` chars (also in random colors) as second trainings-set*. 
               
         <div align="center">
        
-          | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
-          |-|-|-|
+          | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> | <img src="/img/dataset-creation-files.png" alt="example" width=150px height=300px> |
+          |-|-|-|-|
         </div>
       
 # 3.) Training the Large Language Model
