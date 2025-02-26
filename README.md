@@ -67,7 +67,7 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
   - ## 2.1.) '[The Charifier]()' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
       - Comprehensive documentation can be found [ here ]().
         > <small>Notes - [here](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/_api_readme.md)</small>  
-      - ### *"Heart"* of the application - screencapturing with `Skia`: 
+      - ### *"Heart"* of the application - screencapturing with `SkiaSharp`: 
     
         <div align="center">
  
@@ -102,15 +102,18 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
   ---  
 
-  - ### 3.1.) Under the Hood
-  
-  <div align="center">
+  - ### 3.1.)
+    <details>
+       <summary>
+           Under the Hood
+      </summary>
+ 
+      <div align="center">
 
-   | <img src="/img/llm-hood.png" alt="hood" width=400px> | <img src="/img/llm-loss.png" alt="loss" width=300px><br><img src="/img/llm-accuracy.png" alt="accuracy" width=300px> | 
-   |-|-|
-
-  </div>
-
+       | <img src="/img/llm-hood.png" alt="hood" width=400px> | <img src="/img/llm-loss.png" alt="loss" width=300px><br><img src="/img/llm-accuracy.png" alt="accuracy" width=300px> | 
+       |-|-|
+      </div>
+    </details>
 
 # 4.) Testing the Capabilities of the Model 
   
