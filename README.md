@@ -66,7 +66,7 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
 
   - ## 2.1.) '[The Charifier]()' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
       - Comprehensive documentation can be found [ here ]().
-        
+        > <small>Notes - [here](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/_api_readme.md)</small>  
       - ### *"Heart"* of the application - screencapturing with `Skia`: 
     
         <div align="center">
@@ -81,7 +81,7 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
           <img alt="dataset-creation-output-test" src="img\dataset-creation-output-test.png" width=320px height=400px> 
         </div>
       -->
-      - ### Examples of the [final custom generated trainings-data]](https://github.com/IxI-Enki/DsaiUebung-009/tree/master/trainings-sets):<br>
+      - ### Examples of the [final custom generated trainings-data](https://github.com/IxI-Enki/DsaiUebung-009/tree/master/trainings-sets):<br>
         > - *I generated <u>`500 variants`</u> of each of the <u>`200 Bockchars` => `10.000 BoxChars`*.
         > - *And `3400 alpha-numeric` chars (also in random colors) as second trainings-set*. 
               
