@@ -100,8 +100,6 @@ To train the model, i uploaded `13400` generated images in total, which took a w
   <img src="/img/llm-trainings-setup.png" alt="" width=65%>
 </div>
 
-  ---  
-
   - <details>
        <summary>
            $\color{royalblue}{click}$ to reveaal the stats '***Under the Hood***'
@@ -113,6 +111,9 @@ To train the model, i uploaded `13400` generated images in total, which took a w
        |-|-|
       </div>
     </details>
+    
+  ---  
+
 
 # 4.) Testing the Capabilities of the Model 
   
