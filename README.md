@@ -7,7 +7,7 @@
 
 ---
 
-# Teachable Machines <br><sup><sup><u> Ascii-Box(Char)-Recognizer </u></sup></sub>
+#  [Teachable Machines](https://teachablemachine.withgoogle.com/) <br><sup><sup><u> Ascii-Box(Char)-Recognizer </u></sup></sub>
 #### *The Idea*:<br>
   - *I wanted to make something maybe more useful than an LLM to differ between cat & dog pictures.*  
   - Because on Teachable Machines the LLM training can be done based on picture- & audio-data,<br>
