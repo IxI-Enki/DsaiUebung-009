@@ -39,7 +39,7 @@ On teachable machines you can train a large language model either on audio, or i
 
 <div align="center">
  
-  <img src="/img/llm-teachablemachines-gui.png" alt="teachable-machines-picture-gui" width= 80%>
+  <img src="/img/llm-teachablemachines-gui.png" alt="teachable-machines-picture-gui" width=60%>
 </div>
 
 The LLM can learn the difference between uploaded classes.<br>
@@ -58,7 +58,7 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
     
         <div align="center">
  
-          <img src="/img/dataset-creation-skiacode.png" alt="" width=55%>
+          <img src="/img/dataset-creation-skiacode.png" alt="" width=65%>
         </div>
       <!--
       - ### Alignment-check of the first screen-captures in `Photoshop`:    
@@ -69,7 +69,9 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
         </div>
       -->
       - ### Examples of the final custom generated trainings-data:<br>
-      
+        > - *I generated <u>`500 variants`</u> of each of the <u>`200 Bockchars` => `10.000 BoxChars`.
+        > - And `3400 alpha-numeric` chars (also in random colors) as second trainings-set. 
+              
         <div align="center">
        
           | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> |
@@ -77,6 +79,14 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
         </div>
       
 # 3.) Training the Large Language Model
+
+To train the model, i uploaded `13400` generated images in total, which took a while..
+
+<div align="center">
+
+  <img src="/img/dataset-creation-skiacode.png" alt="" width=65%>
+</div>
+
 
 # 4.) Testing the Capabilities of the Model 
   
