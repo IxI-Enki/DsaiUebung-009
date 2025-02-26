@@ -122,7 +122,11 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 # 4.) Testing the Capabilities of the Model 
 
 - There are no `black-white` sample-chars in the trainings set.
-  > - *So I tried to take some screenshots from normal console outputs, varrying with x-y-offset*;<br>
+ 
+   | *So I tried to take some screenshots from<br>normal console outputs,<br> varrying with x-y-offset*;| <img src="/img/llm-testchar.png" alt="testchar" width=50px> |
+   |:---|---|
+ 
+
   > - *It could now differentiate the characters on screen at all times.*  🥳🎉🫱🏻‍🫲🏻💻
 
 <div align="center">
