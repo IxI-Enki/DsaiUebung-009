@@ -21,6 +21,15 @@
     > - *This would be very helpful, in conjunction to normal unit-testing of each combination of box-/line-attributes,<br>
     >   to test my codebases creation and to provide a more robust ASCII-Box-Drawing-Solution, for my usecase.*   
 
+[^1]: **All ASCII - Box - Characters**:<br>
+╵ ╷ ╶ ╴ ╹ ╻ ╺ ╸  
+│ ┃ ║ ╽ ╿ ╎ ╏ ┆ ┇ ┊ ┋  
+─ ━ ═ ╾ ╼ ╌ ╍ ┄ ┅ ┈ ┉  
+╭ ╮ ┌ ┐ ╰ ╯ └ ┘ ┍ ┑ ┎ ┒ ┕ ┙ ┖ ┚ ┏ ┓ ┗ ┛ ╒ ╕ ╓ ╖ ╘ ╛ ╙ ╜ ╔ ╗ ╚ ╝  
+├ ┤ ┝ ┥ ┟ ┧ ┞ ┦ ┢ ┪ ┡ ┩ ┠ ┨ ┣ ┫ ╞ ╡ ╟ ╢ ╠ ╣  
+┬ ┴ ┭ ┮ ┰ ┵ ┶ ┸ ┯ ┱ ┲ ┷ ┹ ┺ ┳ ┻ ╤ ╥ ╧ ╨ ╦  ╩  
+┼ ┽ ┾ ╀ ╁ ┿ ╂ ╪ ╫ ╃ ╄ ╅ ╆ ╇ ╈ ╉ ╊ ╋ ╬  
+
    ---
 
   #### *As I started coding my Boxdrawer, i found this paragraph on wikipedia and could not belive it at first:*<br>
