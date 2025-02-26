@@ -102,7 +102,7 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
   - <details>
        <summary>
-           $\color{royalblue}{click}$ to reveaal the stats '***Under the Hood***'
+           $\color{royalblue}{Peak}$ ' ***Under the Hood*** '
       </summary>
  
       <div align="center">
