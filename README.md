@@ -43,13 +43,14 @@ On teachable machines you can train a large language model either on audio, or i
 </div>
 
 The LLM can learn the difference between uploaded classes.<br>
-> *In the first step, i wanted it to just to differ between alphanumeric-chars and the special ASCII-box-chars.*<br>
+> *In the first step, i wanted it to just to differ between alphanumeric-chars and the special ASCII-box-chars*.<br>
 
 # 2.) Creating the Trainings-DataSets
 
 To satisfy the "additional requirement" of the assignment - to implement the Model in our own project,<br> 
-*I generated the needed trainings-data instead of using the trained model afterwards.<br>
+*I generated the needed trainings-data instead of using the trained model afterwards*.<br>
 > *( Because it wasn't specified in the assignment, i assume that either side of the LLM pipeline would be fine. )*  
+
 
 
 
