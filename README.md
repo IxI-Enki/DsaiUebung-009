@@ -66,8 +66,8 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
 *I generated the needed trainings-data instead of using the trained model afterwards*.<br>
 > *( Because it wasn't specified in the assignment, i assume that either side of the LLM pipeline would be fine. )*  
 
-  - ## 2.1.) '[The Charifier]()' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
-      - Comprehensive documentation can be found [ here ]().
+  - ## 2.1.) '[The Charifier](https://github.com/IxI-Enki/xConsole_screen/tree/ascii-box-charifyer/Solution.Module/BoxCharifyer)' - <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <small><sup> My **C#**-Application for Testdata Creation</sup></small>
+      - Comprehensive documentation can be found [ here ](https://github.com/IxI-Enki/xConsole_screen/blob/ascii-box-charifyer/Solution.Module/BoxCharifyer/README.md).
         > <small>Notes - [here](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/_api_readme.md)</small>  
       - ### *"Heart"* of the application - screencapturing with `SkiaSharp`: 
     
