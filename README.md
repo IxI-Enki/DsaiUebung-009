@@ -58,6 +58,8 @@ On teachable machines you can train a large language model either on audio, or i
 The LLM can learn the difference between uploaded classes.<br>
 > *In the first step, i wanted it to just to differ between alphanumeric-chars and the special ASCII-box-chars*.<br>
 
+--- 
+
 # 2.) Creating the Trainings-DataSets
 
 To satisfy the "additional requirement" of the assignment - to implement the Model in our own project,<br> 
@@ -90,7 +92,9 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
           | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004606_173.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004726_421.png" alt="example" width=150px height=300px> | <img src="https://github.com/IxI-Enki/DsaiUebung-009/blob/master/trainings-sets/each-boxchar-x500-randomcolor/capture_2025-02-24_004811_012.png" alt="example" width=150px height=300px> | <img src="/img/dataset-creation-files.png" alt="example" width=250px height=320px> |
           |-|-|-|-|
         </div>
-      
+
+--- 
+
 # 3.) Training the Large Language Model
 
 To train the model, i uploaded `13400` generated images in total, which took a while..
