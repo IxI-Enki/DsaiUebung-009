@@ -2,8 +2,8 @@
 
  ###### DsaiUebung-009--*Train your own LLM* : [Assignment <sup>(12.2.2025)</sup> ](https://github.com/IxI-Enki/DsaiUebung-009/blob/master/documentation/assignment.md)
 
- #### Visit The [Github-page](https://github.com/IxI-Enki/DsaiUebung-009) ! -- <sub>by</sub>  ***Jan Ritt***
-
+<!-- #### Visit The [Github-page](https://github.com/IxI-Enki/DsaiUebung-009) ! -- <sub>by</sub>  ***Jan Ritt***
+-->
 </div>
 
 ---
