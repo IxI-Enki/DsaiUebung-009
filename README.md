@@ -73,7 +73,7 @@ To satisfy the "additional requirement" of the assignment - to implement the Mod
     
         <div align="center">
  
-          <img src="/img/dataset-creation-skiacode.png" alt="" width=65%>
+          <img src="/img/dataset-creation-skiacode.png" alt="skiasharp" width=65%>
         </div>
       <!--
       - ### Alignment-check of the first screen-captures in `Photoshop`:    
@@ -120,7 +120,14 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
 
 # 4.) Testing the Capabilities of the Model 
-  
+
+<div align="center">
+ 
+   <img src="/img/llm-test.png" alt="skiasharp" width=65%>
+</div>
+
+
+
 <!--
 <div align="center">
 
