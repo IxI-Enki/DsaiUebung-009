@@ -102,7 +102,7 @@ To train the model, i uploaded `13400` generated images in total, which took a w
 
   - <details>
        <summary>
-           $\color{royalblue}{Peak}$ ' ***Under the Hood*** '
+           $\color{royalblue}{Peak}$ '<u>Under the Hood</u>'
       </summary>
  
       <div align="center">
